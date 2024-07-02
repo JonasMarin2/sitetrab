@@ -1,0 +1,35 @@
+body{
+font-family: Arial, sans-serif;
+background-color: aquamarine;
+color: white;
+margin: 0;
+padding: 0;
+}
+
+header {
+background: aquamarine;
+padding: 20px;
+text-align: center;
+color: rgb(85, 84, 84);
+}
+
+div {
+padding: 20px;
+text-align: center;
+}
+
+a {
+display: inline-block;
+margin: 10px;
+padding: 10px 20px;
+background: rgb(255, 255, 255);
+color: rgb(255, 153, 102);
+text-decoration: none;
+border-radius: 5px;
+border: 2px solid rgb(255, 153, 102);
+}
+
+a:hover {
+background: rgb(255, 153, 102);
+color: white;
+}
